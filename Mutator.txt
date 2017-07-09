@@ -1,2 +1,0 @@
-print("Hello")
-print("Ok, let`s do this")
